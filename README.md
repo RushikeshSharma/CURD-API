@@ -4,7 +4,7 @@ This project showcases a basic CRUD (Create, Read, Update, Delete) functionality
 # API's to provide web services
 1)GET - http://localhost:8080/school/student/all
 
-2)GET - http://localhost:8080/school/student/search/{Student ID}
+2)GET - http://localhost:8080/school/student/search/{StudentID}
 instead of {Student ID} you have to give id of student
 
 3)GET - http://localhost:8080/school/student/search/gender/{Gender}
